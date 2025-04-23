@@ -25,3 +25,6 @@ Please cite:
 ## Contributing
 
 Commercial use allowed. If you modify or extend, you must share your modifications under the same licence.
+
+---
+© 2025 Richard Haindl

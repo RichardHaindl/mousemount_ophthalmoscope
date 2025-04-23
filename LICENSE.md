@@ -1,4 +1,5 @@
 # CERN Open Hardware Licence v2 – Weakly Reciprocal
+Copyright (C) 2025 Richard Haindl
 
 SPDX-License-Identifier: CERN-OHL-W-2.0
 
