@@ -20,7 +20,7 @@ Please cite:
    git clone https://github.com/RichardHaindl/mousemount_ophthalmoscope.git
    cd mousemount_ophthalmoscope
    ```
-2. Open `hardware/designs/3DMouseMount.iam` into Fusion360.
+2. Open `hardware/3DMouseMount.iam` into Fusion360.
 
 ## Contributing
 
