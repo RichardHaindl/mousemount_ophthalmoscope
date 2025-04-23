@@ -1,0 +1,13 @@
+# Fusion360 backups
+*.f3d~
+*.f3z~
+
+# Inventor temp/backups
+*.iam~
+*.ipt~
+*.idw
+*.ipj
+*.iLogicVb
+
+# macOS
+.DS_Store
