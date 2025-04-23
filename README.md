@@ -4,8 +4,8 @@ A 3D‑design (Fusion360) for holding a mouse under an ophthalmic scope, with a 
 
 ## License
 
-CERN Open Hardware Licence v2 – Weakly Reciprocal
-See [LICENSE.md].
+CERN Open Hardware Licence v2 – Weakly Reciprocal  
+See [LICENSE.md] and the [local PDF license](License_cern_ohl_w_v2.pdf).
 
 ## Citation
 
